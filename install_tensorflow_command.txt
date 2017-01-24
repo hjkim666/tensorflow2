@@ -1,0 +1,25 @@
+$ sudo apt-get update
+$ sudo apt-get -y dist-upgrade
+$ sudo apt-get install -y gcc g++ gfortran build-essential git wget linux-image-generic libopenblas-dev python-dev python-pip python-nose python-numpy python-scipy
+$ sudo apt-get install -y liblapack-dev
+
+$ pip install tensorflow 
+
+¶Ç´Â 
+
+$ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.12.1-cp27-none-linux_x86_64.whl
+$ sudo pip install --upgrade $TF_BINARY_URL
+
+
+#################### Ipython #########################################
+$sudo apt-get install python-dev python-pip python-numpy python-pandas
+
+$sudo apt-get install ipython3 ipython3-notebook
+$sudo ipython3 notebook
+
+pip install numpy 
+sudo pip install matplotlib
+
+#################### OPEN CV #########################################
+sudo apt-get install python-opencv
+
