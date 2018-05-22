@@ -1,0 +1,3 @@
+#윈도우 vc패치 다운로드 
+https://www.microsoft.com/ko-kr/download/details.aspx?id=48145
+vc_redist.x64.exe

@@ -1,7 +1,0 @@
-1. 자바파일 다운로드 
-http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-jdk-8u161-windows-x64.exe 다운로드 
-
-2. 윈도우 vc패치 다운로드 
-https://www.microsoft.com/ko-kr/download/details.aspx?id=48145
-vc_redist.x64.exe
